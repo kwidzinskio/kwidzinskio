@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwidzinskio
 - 👀 I’m interested in web development and ERP systems
-- 🌱 I’m currently learning Python (Django), JavaScript
-- 💞️ I’m looking to collaborate on web devop projects as Intern/Junior Python Developer
+- 🌱 I’m currently learning C# (ASP.NET), JavaScript
+- 💞️ I’m looking to collaborate on web devop projects as Junior .NET Developer
 - 📫 How to reach me: kwidzinskio@gmail.com
 
 <!---
